@@ -1,4 +1,4 @@
-## Nodejs, hexagonal
+## Nodejs, layers
 ### node 20
 ```
 project/
